@@ -1,0 +1,234 @@
+.App {
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+.nav{
+padding:10px;
+margin:20px;
+word-spacing: 20px;
+}
+
+.App-intro {
+  font-size: large;
+}
+body {
+  background-color: #2D3B48;
+  padding: 20px;
+  margin: 0;
+}
+.title {
+  color: white;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #B22222;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.home{
+  color: white;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+.logoan2{
+  display: inline-block;
+  border-top: 170px;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+.logoan3{
+  display: inline-block;
+  margin-right: 500px;
+  padding: 5px;
+  margin-top: 0px;
+}
+.logoan4{
+  display: inline-block;
+  margin-right: 500px;
+  padding: 5px;
+  margin-top: 0px;
+}
+.logoan1{
+  display: inline-block;
+  border-top: 150px;
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+  border-radius: 50%;
+}
+.App-logo3 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 60px;
+  margin-right: 50px;
+  padding: 10px;
+}
+.App-tul1 {
+  height: 30px;
+  margin-left: 10px;
+  margin-right: auto;
+  padding: 0px;
+}
+.logo2 {
+  margin-top: 120px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.App-header {
+  background-color: #fff;
+  height: 20px;
+  padding: 10px;
+  color: black;
+  margin-left: 1200px;
+  /*
+  margin-left: 1000px;*/
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #ecf0f1;
+    color: white;
+    text-align: center;
+}
+.indo{
+    display: inline-block;
+    border-top: 150px;
+    width: 120px;
+    height: 75px;
+    margin: 5px;
+    font-size: 11pt;
+    font-style: center;
+    font-family: Times New Roman;
+    /*border: 3px solid #73AD21; */
+}
+.App-intro {
+  font-size: large;
+}
+.btn{
+  background-color:  #ecf0f1;
+ /* border-radius: 5px;*/
+  color: black;
+  text-decoration-color: white;
+  width: 150px;
+  padding: 7px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 11pt;
+  font-family: Arial;
+}
+.bawah{
+  font-size: 10pt;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  font-style: center;
+}
+.underbutton{
+  margin-left: 550px;
+  margin-top: 50px;
+}
+.output{
+  text-align: left;
+  margin-left: 20px;
+}
+.output2{
+  text-align: left;
+  margin-left: 0px;
+}
+.link{
+  margin: 100px;
+  width: 100px;
+  align-content: center;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 10pt;
+  align-items: center;
+  font-family: Arial;
+}
+.renderHasil{
+  text-align: left;
+}
+.link2{
+  margin: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 12pt;
+  font-family: Arial;
+}
+
+.inputan{
+  background-color: white;
+  border: 3px solid #ecf0f1;
+  padding: 15px;
+  width: 600px;
+  display: list-item;
+  /*margin-left:400px;*/
+  margin-top: 40px;
+  /*margin-right:400px;*/
+  margin-right: auto;
+  margin-left: auto;
+  /*border-radius:5px;*/
+}
+input{
+  padding: 10px;
+  border: 0;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
